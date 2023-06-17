@@ -1,2 +1,1 @@
-# Prueba
-Mi practica de un repositorio en el git hub del modulo 2 y hacer un commit sola 
+si pude hacerlo ahora ahora tengo que abrir y guardarlo en el git hub y hacer un commit
